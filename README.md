@@ -1,10 +1,10 @@
-<!-- Animated Typing Intro -->
-<p align="center">
+<!-- Animated Typing Intro --
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fakhrul+Azim+👋;Computer+Science+Student;AI+%26+Automation+Developer;Building+Real-World+Solutions" />
 </p>
 
 <br/>
-
+>
+<p align="center">
 <!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 
@@ -167,9 +167,9 @@ Complete volunteer web/mobile system powered by Flutter + Firebase + Gemini AI.
 </p>
 
 <br/>
--->
----
 
+---
+-->
 <br/>
 
 <!-- Current Focus Section -->
@@ -190,7 +190,7 @@ Complete volunteer web/mobile system powered by Flutter + Firebase + Gemini AI.
 
 <br/>
 
-<!-- Footer Section -->
+<!-- Footer Section
 <p align="center">
   <a href="https://github.com/Azimlearning">
     <img src="https://img.shields.io/badge/GitHub-@Azimlearning-111111?style=for-the-badge&logo=github&logoColor=white"/>
@@ -204,7 +204,7 @@ Complete volunteer web/mobile system powered by Flutter + Firebase + Gemini AI.
 </p>
 
 <br/>
-
+ -->
 <p align="center">
   <sub>✨ Minimal • Professional • Always Building 🚀</sub>
 </p>
